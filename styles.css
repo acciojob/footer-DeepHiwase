@@ -3,6 +3,10 @@
 	display: flex;
 }
 
+.media-icons a {
+	display: flex;
+}
+
 .link-boxes {
 	display: flex;
 }
